@@ -1,0 +1,114 @@
+{
+  "-LT90DNHJ210JJHzRq9p" : {
+    "address" : "rupatoli borisal.",
+    "dataValid" : true,
+    "id" : "ChIJ9wHeCFA0VTcRU19AbgJT1Rk",
+    "latLng" : {
+      "latitude" : 22.678280299999997,
+      "longitude" : 90.34627449999999
+    },
+    "name" : "Hotel Singapore",
+    "phoneNumber" : "",
+    "placeTypes" : [ 59, 1013, 34 ],
+    "priceLevel" : -1,
+    "rating" : 3.299999952316284,
+    "viewport" : {
+      "center" : {
+        "latitude" : 22.678280299999997,
+        "longitude" : 90.34627449999999
+      },
+      "northeast" : {
+        "latitude" : 22.6796292802915,
+        "longitude" : 90.3476234802915
+      },
+      "southwest" : {
+        "latitude" : 22.676931319708494,
+        "longitude" : 90.34492551970848
+      }
+    }
+  },
+  "-LT93XGEYu3XIbsV85ir" : {
+    "address" : " Sadar Upazila",
+    "dataValid" : true,
+    "id" : "ChIJY3muOFA0VTcR74FMXISCb0I",
+    "latLng" : {
+      "latitude" : 22.677635499999994,
+      "longitude" : 90.3451075
+    },
+    "name" : "শাওন গ্লাস এন্ড থাই এ্যালুমিনিয়াম",
+    "phoneNumber" : "",
+    "placeTypes" : [ 1013, 34 ],
+    "priceLevel" : -1,
+    "rating" : -1,
+    "viewport" : {
+      "center" : {
+        "latitude" : 22.677635499999994,
+        "longitude" : 90.3451075
+      },
+      "northeast" : {
+        "latitude" : 22.678984480291497,
+        "longitude" : 90.34645648029151
+      },
+      "southwest" : {
+        "latitude" : 22.67628651970849,
+        "longitude" : 90.34375851970849
+      }
+    }
+  },
+  "-LT93biIF5dMUTHgpqRv" : {
+    "address" : "Uttar Rupatali, ",
+    "dataValid" : true,
+    "id" : "ChIJx-ZvBlA0VTcR8wZvlEzM8iE",
+    "latLng" : {
+      "latitude" : 22.678475799999998,
+      "longitude" : 90.3463412
+    },
+    "name" : "নলছিটি কাউন্টার বরিশাল",
+    "phoneNumber" : "",
+    "placeTypes" : [ 93, 1013, 34 ],
+    "priceLevel" : -1,
+    "rating" : 5,
+    "viewport" : {
+      "center" : {
+        "latitude" : 22.678475799999998,
+        "longitude" : 90.3463412
+      },
+      "northeast" : {
+        "latitude" : 22.6798247802915,
+        "longitude" : 90.34769018029151
+      },
+      "southwest" : {
+        "latitude" : 22.677126819708494,
+        "longitude" : 90.34499221970849
+      }
+    }
+  },
+  "-LT943YnfDpWZvRPUgiK" : {
+    "address" : "Bga",
+    "dataValid" : true,
+    "id" : "ChIJGYBQFVA0VTcROMIHZWUmS24",
+    "latLng" : {
+      "latitude" : 22.6776443,
+      "longitude" : 90.3454483
+    },
+    "name" : "তালুকদার কনফেকশনারী",
+    "phoneNumber" : "",
+    "placeTypes" : [ 1013, 34 ],
+    "priceLevel" : -1,
+    "rating" : -1,
+    "viewport" : {
+      "center" : {
+        "latitude" : 22.6776443,
+        "longitude" : 90.3454483
+      },
+      "northeast" : {
+        "latitude" : 22.678993280291504,
+        "longitude" : 90.34679728029151
+      },
+      "southwest" : {
+        "latitude" : 22.676295319708498,
+        "longitude" : 90.34409931970849
+      }
+    }
+  }
+}
